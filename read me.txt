@@ -1,6 +1,6 @@
-All training resuls and model programming is in "RNN_model.ipynb" and ¡°RNN_model.ipynb¡±.
+All training resuls and model programming is in "RNN_model.ipynb" and "RNN_model.ipynb".
 
-"model_plot.py" is a function.
+"model_plot.py" is a function used to plot loss results.
 
 MATLAB code has been upload. 
 
