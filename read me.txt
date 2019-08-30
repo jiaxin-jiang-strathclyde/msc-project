@@ -1,8 +1,8 @@
-All training resuls and model programming is in "RNN_model.ipynb" and ¡°RNN_model.ipynb¡±.
+All training resuls and model programming is in "RNN_model.ipynb" and Â¡Â°RNN_model.ipynbÂ¡Â±.
 
 "model_plot.py" is a function.
 
-MATLAB code has been upload. ¡°data_pre.m¡± and ¡°error_analysis.m¡±
+MATLAB code has been upload. 
 
 If you want to download training sets and trained models, URL:https://drive.google.com/open?id=1l_svyTWcBLHpqHrz_l3SBclZ2iQIK0H0
 
