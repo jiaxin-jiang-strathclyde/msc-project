@@ -2,7 +2,7 @@ All training resuls and model programming is in "RNN_model.ipynb" and "RNN_model
 
 "model_plot.py" is a function used to plot loss results.
 
-MATLAB code has been upload. 
+2 MATLAB code has been uploaded. 
 
 If you want to download training sets and trained models, URL:https://drive.google.com/open?id=1l_svyTWcBLHpqHrz_l3SBclZ2iQIK0H0
 
